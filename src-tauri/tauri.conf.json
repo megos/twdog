@@ -56,10 +56,10 @@
     "windows": [
       {
         "fullscreen": false,
-        "height": 600,
+        "height": 800,
         "resizable": true,
         "title": "Twdog",
-        "width": 800,
+        "width": 1170,
         "url": "https://tweetdeck.twitter.com"
       }
     ]
